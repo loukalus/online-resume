@@ -1,15 +1,15 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Abdelkader LOUKAL
+  title: DEVOPS Engineer
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: loukal.abdelkader@gmail.com
+  phone: +33-625567588
+  website: loukal.abdelkader.com
   wechat:
   whatsapp:
   telegram:
@@ -39,22 +39,22 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: QA Engineer
+      time: 2009.12 - 2012.06
+      company: HARVEST
       tag:
-      location: Beijing
+      location: Paris
       details: |
         Experience in this company:
-        + First
+        + Testing 
         + Second
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
+    - role: QA Team Leader
+      time: 2012.06 - 2018.06
       company: First Company
-      tag: Remote, part-time
+      tag: 
       location: Beijing
       details: |
         Experience in this company:
